@@ -7,7 +7,8 @@ This project is a GUI-based inventory management system for a tire shop, built w
 - Record and manage sales
 - Display inventory and sales history
 - Search functionality for inventory and sales
-
+- Complete with a login and authentication system
+  
 ## Prerequisites
 - Python 3.x
 
