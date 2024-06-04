@@ -16,7 +16,7 @@ This project is a GUI-based inventory management system for a tire shop, built w
 
 1. **Clone the repository**
 
-   First, open up the Terminal application, then enter the following:
+   First, open up the Terminal application, then enter the following (one line at a time):
     ```sh
     git clone https://github.com/Jupiternium/Inventory-Management-System.git
     cd Inventory-Management-System
