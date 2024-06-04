@@ -10,7 +10,7 @@ This project is a GUI-based inventory management system for a tire shop, built w
 - Complete with a login and authentication system
   
 ## Prerequisites
-- Python 3.x
+- Python 3.x (https://www.python.org/downloads/)
 
 ## Installation
 
