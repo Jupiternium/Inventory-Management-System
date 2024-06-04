@@ -29,12 +29,9 @@ This project is a GUI-based inventory management system for a tire shop, built w
 
 ## Running the Application
 
-1. **Navigate to the project directory**
-    ```sh
-    cd Inventory-Management-System
-    ```
+1. **Run the main application**
 
-2. **Run the main application**
+   Once you have the requirements installed and are in the ```Inventory-Management-System``` directory, enter the following:
     ```sh
     python main.py
     ```
